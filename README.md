@@ -35,5 +35,5 @@
 ---
 
 ## 📬 Onde me encontrar
-📧 Email: *coloque seu email aqui*  
-💼 LinkedIn: *adicione seu perfil aqui*  
+📧 Email: [](thyagogmdev@gmail.com)
+💼 LinkedIn: [thyagomoreira-dev](https://www.linkedin.com/in/thyagomoreira-dev)
