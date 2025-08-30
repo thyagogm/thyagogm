@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Thyago Gonçalves Moreira  
 
-<!--
-**thyagogm/thyagogm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Estudante de **Python Fullstack** na [EBAC](https://ebaconline.com.br)  
+💻 Apaixonado por **tecnologia** e **projetos criativos**  
+🚀 Sempre em busca de evolução e novos desafios  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Sobre mim
+- 🔭 Atualmente estudando **desenvolvimento Fullstack**  
+- 🌱 Aprendendo mais sobre **Django, APIs e Banco de Dados**  
+- 🎯 Objetivo: me tornar um **desenvolvedor completo**  
+- ⚡ Curiosidade: gosto de aprender coisas novas todos os dias  
+
+---
+
+## 📊 GitHub Stats
+![Thyago GitHub stats](https://github-readme-stats.vercel.app/api?username=thyagogm&show_icons=true&theme=radical)
+
+---
+
+## 📬 Onde me encontrar
+📧 Email: *coloque seu email aqui*  
+💼 LinkedIn: *adicione seu perfil aqui*  
