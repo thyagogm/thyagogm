@@ -27,8 +27,10 @@
 ---
 
 ## 📊 GitHub Stats
-![Thyago GitHub stats](https://github-readme-stats.vercel.app/api?username=thyagogm&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thyagogm&layout=compact&theme=radical)
+<div style="display: flex; gap: 20px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thyagogm&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagogm&layout=compact&theme=radical" />
+</div>
 
 ---
 
