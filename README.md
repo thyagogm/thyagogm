@@ -14,7 +14,7 @@ Sempre em busca de evolução e novos desafios
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
@@ -26,7 +26,7 @@ Sempre em busca de evolução e novos desafios
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div style="display: flex; gap: 20px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thyagogm&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagogm&layout=compact&theme=radical" />
@@ -34,6 +34,6 @@ Sempre em busca de evolução e novos desafios
 
 ---
 
-## 📬 Onde me encontrar
+## Onde me encontrar
 📧 Email: [thyagogmdev@gmail.com](mailto:thyagogmdev@gmail.com)
 💼 LinkedIn: [thyagomoreira-dev](https://www.linkedin.com/in/thyagomoreira-dev)
