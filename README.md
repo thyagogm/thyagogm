@@ -1,16 +1,16 @@
-# 👋 Olá, eu sou o Thyago Gonçalves Moreira  
+# Olá, eu sou o Thyago Gonçalves Moreira  
 
-✨ Estudante de **Python Fullstack** na [EBAC](https://ebaconline.com.br)  
-💻 Apaixonado por **tecnologia** e **projetos criativos**  
-🚀 Sempre em busca de evolução e novos desafios  
+Estudante de **Python Fullstack** na [EBAC](https://ebaconline.com.br)  
+Apaixonado por **tecnologia** e **projetos criativos**  
+Sempre em busca de evolução e novos desafios  
 
 ---
 
-## 🌟 Sobre mim
-- 🔭 Atualmente estudando **desenvolvimento Fullstack**  
-- 🌱 Aprendendo mais sobre **Django, APIs e Banco de Dados**  
-- 🎯 Objetivo: me tornar um **desenvolvedor completo**  
-- ⚡ Curiosidade: gosto de aprender coisas novas todos os dias  
+## Sobre mim
+- Atualmente estudando **desenvolvimento Fullstack**  
+- Aprendendo mais sobre **Django, APIs e Banco de Dados**  
+- Objetivo: me tornar um **desenvolvedor completo**  
+- Curiosidade: gosto de aprender coisas novas todos os dias  
 
 ---
 
